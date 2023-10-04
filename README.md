@@ -18,5 +18,6 @@ what I have worked on:
 - LOGO PLC
 - DELTA PLC (using instruction list)
 - DELTA HMI (using LUA)
+- React.js
 
-Currently working on 6b6t-delivery-bot
+Currently working on react projects
