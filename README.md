@@ -1,4 +1,4 @@
-#HoseanRC
+# HoseanRC
 
 ![HoseanRC's Stats](https://github-readme-stats.vercel.app/api?username=HoseanRC&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![HoseanRC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoseanRC&theme=react&hide_border=false)
@@ -10,7 +10,7 @@ Getting Industrial Mechatronics associate diploma from Enghelab-e Eslami Technic
 
 working at RTH as a full stack dev (rthco.ir)
 
-##Programming Languages
+## Programming Languages
 | Language | percentage of knowledge |
 |---|---|
 | C | 75% |
@@ -22,9 +22,9 @@ working at RTH as a full stack dev (rthco.ir)
 | Kotlin | 55% |
 | Assembly | 20% |
 
-##Platforms
+## Platforms
 
-###C/C++
+### C/C++
 | platform | percentage of knowledge |
 |---|---|
 | AVR | 75% |
@@ -32,7 +32,7 @@ working at RTH as a full stack dev (rthco.ir)
 | ESP on Arduino | 70% |
 | Linux | 20% |
 
-###JS/TS
+### JS/TS
 | platform | percentage of knowledge |
 |---|---|
 | Web | 35% |
@@ -40,7 +40,7 @@ working at RTH as a full stack dev (rthco.ir)
 | Deno | 15% |
 | React | 40% |
 
-###Java/Kotlin
+### Java/Kotlin
 | platform | percentage of knowledge |
 |---|---|
 | Android Studio | 40% |
